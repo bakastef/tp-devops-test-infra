@@ -16,3 +16,4 @@ I generally add the same tag block wherever I is possible and on every ceated re
 It helps with clarity: that can help figuring out easily what is IaC and what is created manually.
 Also for maintenance: that gives the ability to query and/or filter resources via aws-cli, which makes cleanup tasks way easier.
 
+Because this is a public repository, I have removed all mention of the company it is for ;) 
